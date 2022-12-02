@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "606533364112",
+    "firebase_url": "https://app1-311de-default-rtdb.firebaseio.com",
+    "project_id": "app1-311de",
+    "storage_bucket": "app1-311de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606533364112:android:5b478c3ada824a518e2b15",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606533364112-tvgj4atdht19l8virqd9mvul6lb913fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGeyTSAfzEfe9_IR1pxrmFqI5FbRNGxN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606533364112-tvgj4atdht19l8virqd9mvul6lb913fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
